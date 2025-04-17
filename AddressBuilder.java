@@ -68,7 +68,7 @@ public class AddressBuilder {
         System.out.println(); // Just prints a blank line for spacing
         System.out.println(addressInfo.toString());
 
-        // Close the scanner to clean up resources (good habit)
+        // Close the scanner to clean up resources
         scanner.close();
     }
 }
