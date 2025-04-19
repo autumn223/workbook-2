@@ -42,7 +42,7 @@ public class HighScoreWins {
             System.out.println("It's a tie!");
         }
 
-        // Close the scanner to free up system resources
+        
         scanner.close();
     }
 }
